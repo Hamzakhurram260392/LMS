@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body, html {
+  padding: 0;
+  min-height: 100%;
+  background: #050b1f; /* safed patti / white lines khatam */
+  margin: 0;
+}
